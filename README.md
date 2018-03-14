@@ -14,3 +14,9 @@
 * Overall optimizations for gameplay
 * Custom splashscreen
 * Theme optimized for smaller screens
+
+# GPIO Pins
+
+This image of RetroPie is pre-configured to use the following pins. If you need to make some customizations, edit `/boot/retrogame.cfg`.
+
+![GPIO Pins](https://raw.githubusercontent.com/sixteenbit/gameboy-zero/master/img/GPIO.png "GPIO Pins")
