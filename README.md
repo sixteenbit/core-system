@@ -11,6 +11,7 @@
 * GPIO controller settings for Retrogame
 * Settings for USB audio
 * Recommended overclocking from [RetroPie](https://retropie.org.uk/docs/Overclocking/#raspberry-pi-zero)
+* Battery monitor script for 16bit
 * Overall optimizations for gameplay
 * Custom splashscreen
 * Theme optimized for smaller screens
