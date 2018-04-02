@@ -19,7 +19,7 @@
 
 # GPIO Pins
 
-This image of RetroPie is pre-configured to use Retrogame to setup our GPIO controller. If you need to make some customizations, edit `/boot/retrogame.cfg`. For more information, please see [Configuring Retrogame](https://learn.adafruit.com/retro-gaming-with-raspberry-pi/configuring-retrogame)
+This image of RetroPie is pre-configured to use Retrogame to setup the GPIO controller. If you need to make some customizations, edit `/boot/retrogame.cfg`. For more information, please see [Configuring Retrogame](https://learn.adafruit.com/retro-gaming-with-raspberry-pi/configuring-retrogame)
 
 ![GPIO Pins](https://raw.githubusercontent.com/sixteenbit/gameboy-zero/master/img/GPIO.png "GPIO Pins")
 
